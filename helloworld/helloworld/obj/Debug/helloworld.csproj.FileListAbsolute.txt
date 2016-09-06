@@ -1,0 +1,6 @@
+c:\users\grace\documents\visual studio 2015\Projects\helloworld\helloworld\bin\Debug\helloworld.exe.config
+c:\users\grace\documents\visual studio 2015\Projects\helloworld\helloworld\bin\Debug\helloworld.exe
+c:\users\grace\documents\visual studio 2015\Projects\helloworld\helloworld\bin\Debug\helloworld.pdb
+c:\users\grace\documents\visual studio 2015\Projects\helloworld\helloworld\obj\Debug\helloworld.csprojResolveAssemblyReference.cache
+c:\users\grace\documents\visual studio 2015\Projects\helloworld\helloworld\obj\Debug\helloworld.exe
+c:\users\grace\documents\visual studio 2015\Projects\helloworld\helloworld\obj\Debug\helloworld.pdb
